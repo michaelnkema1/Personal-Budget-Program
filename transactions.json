@@ -1,0 +1,14 @@
+{
+    "income": [
+        {
+            "amount": 250.0,
+            "description": "Weekly Feeding fee"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 50.0,
+            "description": "Electric and gas bill"
+        }
+    ]
+}
